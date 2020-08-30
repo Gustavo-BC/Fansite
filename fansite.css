@@ -1,4 +1,9 @@
-#welcome{
+#welcome {
   font-size: 48px;
   color: rgb(88, 196, 234);
+  text-align: center;
+}
+
+body {
+  background-color: #2F6274;
 }
